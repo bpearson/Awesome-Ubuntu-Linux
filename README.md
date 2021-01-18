@@ -49,6 +49,14 @@
 ## Applications
 
 
+
+[![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) 
+
+
+![Freeware][Freeware Icon]
+
+
+
 ### Audio
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime is the open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux ![Freeware][Freeware Icon]
@@ -139,8 +147,12 @@
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux
+[![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
+- [Mailspring](https://getmailspring.com/) - Boost your productivity and send better email with Mailspring, the best mail client for Mac, Linux, and Windows. ![Freeware][Freeware Icon]
+- [PrortonMail](https://protonmail.com//#) - Secure Your Communications
+with ProtonMail ![Freeware][Freeware Icon]
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files![Freeware][Freeware Icon]
@@ -178,12 +190,15 @@
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.![Freeware][Freeware Icon]
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
+- [Shotcut](https://shotcut.org/) - Shotcut is a free, open source, cross-platform video editor ![Freeware][Freeware Icon]
+- [Figma](https://www.figma.com) - The best way to design is together.
+
 
 
 ### Internet
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Firefox](www.mozilla.org/firefox) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
-
+- [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship. ![Freeware][Freeware Icon]
 
 ### Productivity
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux![Freeware][Freeware Icon]
@@ -236,7 +251,11 @@
 - [Konsole](https://konsole.kde.org/) - Best terminal for KDE dekstop environment.![Freeware][Freeware Icon]
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.![Freeware][Freeware Icon]
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
-
+- [Tilda](https://github.com/lanoxx/tilda) - Tilda is a terminal emulator and can be compared with other popular terminal emulators such as gnome-terminal (Gnome), Konsole (KDE), xterm and many others ![Freeware][Freeware Icon]
+- [RoxTerm](http://roxterm.sourceforge.net/index.php?page=index&lang=en) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal, based on the same VTE library ![Freeware][Freeware Icon]
+- [Eterm](https://github.com/mej/Eterm) - Eterm terminal emulator ![Freeware][Freeware Icon]
+- [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE ![Freeware][Freeware Icon]
+- [LilyTerm](https://github.com/Tetralet/LilyTerm) - A lightweight, but functional terminal emulator ![Freeware][Freeware Icon]
 
 ### Utilities
 - [Actionaz](http://actionaz.org/) - Automation tasks utility for ubuntu/Linux![Freeware][Freeware Icon]
